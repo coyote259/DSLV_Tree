@@ -25,9 +25,6 @@
 		<Item Name="Tree Empty.vi" Type="VI" URL="../Tree Empty.vi"/>
 		<Item Name="Tree Expand.vi" Type="VI" URL="../Tree Expand.vi"/>
 	</Item>
-	<Item Name="Documentation" Type="Folder">
-		<Item Name="Readme.txt" Type="Document" URL="../Readme.txt"/>
-	</Item>
 	<Item Name="Example - INI Viewer.llb" Type="Folder">
 		<Item Name="Error OR.vi" Type="VI" URL="../Example - INI Viewer.llb/Error OR.vi"/>
 		<Item Name="States - INI Viewer.ctl" Type="VI" URL="../Example - INI Viewer.llb/States - INI Viewer.ctl"/>
@@ -38,6 +35,7 @@
 	</Item>
 	<Item Name="method" Type="Folder">
 		<Item Name="Checkbox" Type="Folder">
+			<Item Name="Judge Node Symbols.vi" Type="VI" URL="../Judge Node Symbols.vi"/>
 			<Item Name="Judge Set Item Symbol.vi" Type="VI" URL="../Judge Set Item Symbol.vi"/>
 			<Item Name="Set ParentNode Selected.vi" Type="VI" URL="../Set ParentNode Selected.vi"/>
 			<Item Name="Set Selected.vi" Type="VI" URL="../Set Selected.vi"/>

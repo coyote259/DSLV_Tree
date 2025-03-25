@@ -11,9 +11,8 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="_Test" Type="Folder">
-			<Item Name="_Test_Demo_Checkbox.vi" Type="VI" URL="../_Test/_Test_Demo_Checkbox.vi"/>
-			<Item Name="_Test_Modify_Text_Style.vi" Type="VI" URL="../_Test/_Test_Modify_Text_Style.vi"/>
+		<Item Name="examples" Type="Folder">
+			<Item Name="_Test_Demo_example.vi" Type="VI" URL="../_Test/_Test_Demo_example.vi"/>
 		</Item>
 		<Item Name="Sources" Type="Folder">
 			<Item Name="DSLV_Tree.lvlib" Type="Library" URL="../DSLV_Tree/DSLV_Tree.lvlib"/>

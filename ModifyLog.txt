@@ -12,5 +12,13 @@ Data:2017.01.16
 New Featuer:
 1.Checkbox support tri-state
 2.support highlight item
-    -four status£ºDone:bold,Ready:normal,Warning:yellow,Error:red
+    -four status [Done:bold,Ready:normal,Warning:yellow,Error:red]
+/*----------------------------------------------*/
+Version:1.0.0.5
+Data:2025.03.25
+New Featuer:
+1. support check if the item is on selection via checkbox judgement.
+
+Modification:
+1. do some modification to make the example more easy to use.
 /*----------------------------------------------*/

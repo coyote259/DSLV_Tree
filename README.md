@@ -3,7 +3,7 @@ Do secondary development based on Tree Control Toolkit V1.0.0 , the declaration 
 
 
 ## Supported LabVIEW versions
-2023Q3 and above
+2023Q3 and above<br>
 If you need support for an earlier version of LabVIEW, please open it in 23Q3 or above and save it as a previous version you need.
 
 ## Supported Features
@@ -15,7 +15,7 @@ If you need support for an earlier version of LabVIEW, please open it in 23Q3 or
 - Need to select the desired items in the tree menu display
 - Different identifiers are needed to represent the current target state
 
-![CheckboxDemo](assets\CheckboxDemo.gif)
+![CheckboxDemo](https://github.com/coyote259/DSLV_Tree/blob/main/assets/CheckboxDemo.gif)
 
 ## How to use this lib
 Clone or Download this sourecode, copy the DSLV_Tree folder(including the DSLV_Tree.lvlib and the dependecy VIs) to any other where you need them.
@@ -23,34 +23,34 @@ Clone or Download this sourecode, copy the DSLV_Tree folder(including the DSLV_T
 # HERE IS THE ORIGINAL README
 Tree Control Toolkit V1.0.0
 
-Copyright © 2007, Norman J. Kirchner, Jr.
-All rights reserved.
+Copyright © 2007, Norman J. Kirchner, Jr.<br>
+All rights reserved.<br>
 Norman J. Kirchner, Jr.
 
-Author:
-Norman J. Kirchner, Jr
+Author:<br>
+Norman J. Kirchner, Jr<br>
 NJKirchner@hotmail.com
 
-Distribution:
+Distribution:<br>
 This code was downloaded from the LAVA Code Repository: http://forums.lavag.org/downloads.html
 
 
-Description:
-Package to provide smart tree functionality without assumption of type of data (ie, file paths or others)
-Gives ability to modify contents, extract information and control the branches.
-A good understanding of how the LV tree truly operates as a fancy multi-column listbox is very useful although not required.
+Description:<br>
+Package to provide smart tree functionality without assumption of type of data (ie, file paths or others)<br>
+Gives ability to modify contents, extract information and control the branches.<br>
+A good understanding of how the LV tree truly operates as a fancy multi-column listbox is very useful although not required.<br>
 An expample program if not present on the forums, will be in place soon.
 
-Dependancies:
+Dependancies:<br>
 LV version above base package
 
 
-Support:
-If you have any problems with this code or want to suggest features:
-http://forums.lavag.org/index.php?showtopic=####
-The above link will be available after your submission has been approved. After you get this link, come back, edit this file and resubmit with the updated link.
+Support:<br>
+If you have any problems with this code or want to suggest features:<br>
+http://forums.lavag.org/index.php?showtopic=####<br>
+The above link will be available after your submission has been approved. After you get this link, come back, edit this file and resubmit with the updated link.<br>
 
-Change Log:
+Change Log:<br>
 1.0.0: Initial release of the code.
 
 
